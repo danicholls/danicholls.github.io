@@ -3,6 +3,10 @@ title: Publications
 layout: page
 ---
 
+## books
+
+* <i>Cross: A Story of Hope</i> &ndash; Album-book by the band West Rim. Beautifully produced with photos, lyrics (some by yours truly), an original and exclusive poem (yours truly again), and a dream-like narrative that ties it all together. Large &mdash; about the size of a vinyl LP. And did I mention gorgeous? It is. 
+
 ## poems
 
 * 2 poems, <i>Agenda</i> Vol 48, Nos 3-4: “Requiem” (on WWI)
